@@ -1,0 +1,5 @@
+export const ADD_TO_BASKET = "ADD_TO_BASKET"
+export const REMOVE_FROM_BASKET = "REMOVE_FROM_BASKET"
+export const USER_LOGGED_IN = "USER_LOGGED_IN"
+export const NO_USER_HERE = "NO_USER_HERE"
+export const EMPTY_BASKET = "EMPTY_BASKET"
